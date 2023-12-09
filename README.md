@@ -63,8 +63,8 @@
 
 | Project details | Screenshot |
 | :------------- | :------------- |
-| 1. __Gadgetier-webapp__ <br/><br/> Live preview: <br/> https://gadgetier-client.vercel.app/ <br/><br/> Using: <br/> `React.js` <br/> `TailwindCSS` <br/> `Express js` <br/> `Mongodb` <br/> `react-helmet-async` <br/> `axios` <br/> `react-router-dom` <br/> `firebase` <br/> `react-fast-marquee` <br/> `sonner` | ![Gadgetier](https://i.postimg.cc/fRRVptmK/gadgetier.jpg) |
-| 2. __Livingbook__ <br/><br/> Live preview: <br/> https://living-book-client.vercel.app <br/><br/> Using: <br/> `React.js` <br/> `TailwindCSS` <br/> `Express js` <br/> `Mongodb` <br/> `react-query` <br/> `axios` <br/> `react-router-dom` <br/> `firebase` <br/> `react-hook-form` <br/> `sweetalert2` | ![Livingbook](https://i.postimg.cc/P5VCjXMk/living-book.jpg) |
+| 1. __Gadgetier-webapp__ <br/><br/> Live preview: <br/> https://gadgetier-client.vercel.app/ <br/><br/> Using: <br/> `React.js` <br/> `TailwindCSS` <br/> `Express js` <br/> `Mongodb` <br/> `react-helmet-async` <br/> `axios` <br/> `react-router-dom` <br/> `firebase` <br/> `tanstack-query` <br/> `react-hook-form` <br/> `moment js` <br/> `sweetalert2` | ![Gadgetier](https://i.postimg.cc/fRRVptmK/gadgetier.jpg) |
+| 2. __Livingbook__ <br/><br/> Live preview: <br/> https://living-book-client.vercel.app <br/><br/> Using: <br/> `React.js` <br/> `TailwindCSS` <br/> `Express js` <br/> `Mongodb` <br/> `react-fast-marquee` <br/> `axios` <br/> `react-router-dom` <br/> `firebase` <br/> `react-helmet-async` <br/> `react-tailwindcss-datepicker` <br/> `sonner` | ![Livingbook](https://i.postimg.cc/P5VCjXMk/living-book.jpg) |
 | 3. __Stepup store__ <br/><br/> Live preview: <br/> https://stepup-style-auth.web.app <br/><br/> Using: <br/> `ReactJS` <br/> `TailwindCSS` <br/> `react-router-dom` <br/> `firebase` <br/> `sonner` | ![stepup](https://i.postimg.cc/nLsCVyd9/stepup-shop.jpg) |
 | 4. __Spotlight events__ <br/><br/> Live preview: <br/> https://spotlight-events-auth.web.app/ <br/><br/> Using: <br/> `ReactJS` <br/> `TailwindCSS` <br/> `react-router-dom` <br/> `firebase` | ![spotlight](https://i.postimg.cc/GhQBXJ8t/spotlight-events.jpg) |
 
