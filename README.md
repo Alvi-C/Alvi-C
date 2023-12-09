@@ -58,7 +58,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-## My Projects!
+## Some of my Projects!
 
 
 | Project details | Screenshot |
@@ -67,4 +67,8 @@
 | 2. __Livingbook__ <br/><br/> Live preview: <br/> https://living-book-client.vercel.app <br/><br/> Using: <br/> `React.js` <br/> `TailwindCSS` <br/> `Express js` <br/> `Mongodb` <br/> `react-query` <br/> `axios` <br/> `react-router-dom` <br/> `firebase` <br/> `react-hook-form` <br/> `sweetalert2` | ![Livingbook](https://i.postimg.cc/P5VCjXMk/living-book.jpg) |
 | 3. __Stepup store__ <br/><br/> Live preview: <br/> https://stepup-style-auth.web.app <br/><br/> Using: <br/> `ReactJS` <br/> `TailwindCSS` <br/> `react-router-dom` <br/> `firebase` <br/> `sonner` | ![stepup](https://i.postimg.cc/nLsCVyd9/stepup-shop.jpg) |
 | 4. __Spotlight events__ <br/><br/> Live preview: <br/> https://spotlight-events-auth.web.app/ <br/><br/> Using: <br/> `ReactJS` <br/> `TailwindCSS` <br/> `react-router-dom` <br/> `firebase` | ![spotlight](https://i.postimg.cc/GhQBXJ8t/spotlight-events.jpg) |
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alvi-c&theme=dark)](https://git.io/streak-stats)
+
 
