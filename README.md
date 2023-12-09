@@ -1,5 +1,5 @@
 ## Hi There  👋  I'm Jahedul Huda Chowdhury (Alvi) 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&random=false&width=550&lines=A+fullstack+developer+crafting+web+apps)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&random=false&width=550&lines=A+fullstack+developer+crafting+web+apps)
 ![coverpage](https://i.postimg.cc/K8CqLRP9/profile-cover-2.jpg)
 
 🚀 Embarking on my journey as a Full Stack Developer, I am fueled by a passion for coding, a knack for problem-solving, and an unquenchable thirst for learning. While new to the field, my dedication to mastering the art of coding is unwavering. I am adept at navigating both the front and back ends, constantly expanding my toolkit with a variety of technologies and languages.
