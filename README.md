@@ -1,8 +1,10 @@
 ## Hi There  👋  I'm Jahedul Huda Chowdhury (Alvi) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=5000&repeat=false&random=false&width=760&lines=An+inspired+Full+Stack+Developer+crafting+web+apps)](https://git.io/typing-svg)
-🚀 Embarking on my journey as a Full Stack Developer, I am fueled by a passion for coding, a knack for problem-solving, and an unquenchable thirst for learning. While new to the field, my dedication to mastering the art of coding is unwavering. I am adept at navigating both the front and back ends, constantly expanding my toolkit with a variety of technologies and languages.![image](https://github.com/Alvi-C/Alvi-C/assets/86768046/a510d5f6-d393-422c-8123-b699724672c9)
-💡 Curiosity Drives Me. I am captivated by how things work under the hood. This curiosity is not just about understanding the functionality but also about applying this knowledge to create applications that are not only robust and efficient but also intuitive and user-friendly.![image](https://github.com/Alvi-C/Alvi-C/assets/86768046/9fdfe4dd-8523-4d78-b984-44655690d9c1)
-🌟 As a new entrant in the field, what I bring to the table is fresh perspective, untapped energy, and a readiness to take on challenges that push the boundaries of my skills. I am eager to contribute, learn, and grow within a team that values innovation and creativity.![image](https://github.com/Alvi-C/Alvi-C/assets/86768046/f4fc5265-c0bc-4380-828f-bd180f0ec09e)
+🚀 Embarking on my journey as a Full Stack Developer, I am fueled by a passion for coding, a knack for problem-solving, and an unquenchable thirst for learning. While new to the field, my dedication to mastering the art of coding is unwavering. I am adept at navigating both the front and back ends, constantly expanding my toolkit with a variety of technologies and languages.
+
+💡 Curiosity Drives Me. I am captivated by how things work under the hood. This curiosity is not just about understanding the functionality but also about applying this knowledge to create applications that are not only robust and efficient but also intuitive and user-friendly.
+
+🌟 As a new entrant in the field, what I bring to the table is fresh perspective, untapped energy, and a readiness to take on challenges that push the boundaries of my skills. I am eager to contribute, learn, and grow within a team that values innovation and creativity.
 
 - 🔭 I’m currently looking for remote job ...
 - 🌱 I’m currently learning mongoose and typescript ...
