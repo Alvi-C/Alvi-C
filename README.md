@@ -68,7 +68,7 @@
 | 3. __Stepup store__ <br/><br/> Live preview: <br/> https://stepup-style-auth.web.app <br/><br/> Using: <br/> `ReactJS` <br/> `TailwindCSS` <br/> `react-router-dom` <br/> `firebase` <br/> `sonner` | ![stepup](https://i.postimg.cc/nLsCVyd9/stepup-shop.jpg) |
 | 4. __Spotlight events__ <br/><br/> Live preview: <br/> https://spotlight-events-auth.web.app/ <br/><br/> Using: <br/> `ReactJS` <br/> `TailwindCSS` <br/> `react-router-dom` <br/> `firebase` | ![spotlight](https://i.postimg.cc/GhQBXJ8t/spotlight-events.jpg) |
 
-
+### Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alvi-c&theme=dark)](https://git.io/streak-stats)
 
 
