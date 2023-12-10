@@ -3,9 +3,9 @@
 
 ![coverpage](https://i.postimg.cc/K8CqLRP9/profile-cover-2.jpg)
 
-- 🔭 I’m currently looking for internship 
 - 👨‍💻 I'm currently working on my portfolio site
-- 🌱 I’m currently learning mongoose and typescript ...
+- 🌱 I’m currently learning mongoose and typescript
+- 🔭 I’m currently looking for internship 
 
 
 ## Social
